@@ -8,5 +8,4 @@ categories: development
 ## Introduction
 
 This post is about my new puzzle planning. This puzzle will be focused on recognition abilities.
-Test test test test .....
 
