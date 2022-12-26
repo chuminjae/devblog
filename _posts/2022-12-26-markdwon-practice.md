@@ -4,9 +4,6 @@ title:  "Markdown practice"
 date:   2022-12-26 11:01:42 +0900
 categories: development
 ---
-
-
-
 ## Title 2
 
 ### Title 3
