@@ -18,7 +18,6 @@ categories: development
 1. number 2
 1. number 3
 1. number 4
-
 1. number 5
 
 ## New Title
