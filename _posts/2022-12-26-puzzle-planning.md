@@ -7,7 +7,7 @@ categories: development
 
 ## Introduction
 
-Puzzles are easily played when people feel bored. Students including me also play puzzles to enhance our creativity and logical thinking. Puzzles are enjoyable by themselves, but they also help players to improve academically. I found a good and an easy puzzle that utilizes basic inequality concepts and the principle of `Sudoku`.
+Puzzles are easily played when people feel bored. Students including me also play puzzles to enhance our creativity and logical thinking. Puzzles are enjoyable by themselves, but they also help players to improve academically. I found a good and an easy puzzle that utilizes basic inequality concepts and the principle of `Sudoku`.  &#128525;
 
 ## How to play
 
