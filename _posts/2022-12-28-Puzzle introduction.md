@@ -17,7 +17,7 @@ My puzzle mainly utilizes the concept of mental rotation and geometry. Rotation 
 
 Now I will talk about how to play this game.
 
-First, players will have the chance to see what kind of format will they be made to choose the answer. For example, player could be made to match pairs, choose correct or not, choose the answer of the multiple choice question.
+First, players will have the chance to see what kind of format will they be made to choose the answer. For example, players could be made to match pairs, choose correct or not, choose the answer of the multiple choice question.
 ![format](https://res.cloudinary.com/dgq2zzviv/image/upload/v1672228677/Screenshot_2022-12-28_205749_oojgmi.png)
 
 Second, players will be made to observe the images shown in the question. Players should pay attention to the color of the ball placed at the vertices of each figure and the figure itself, and find out whether the figures are the same when they are rotated at any angle. Players should keep in mind that the clock is running out. A timer is shown, and players will fail if they pass the time limit. In this case, the figure with number 1 is the same as the figure with number 4, and the figure with number 2 is the same as the figure with number 3.
