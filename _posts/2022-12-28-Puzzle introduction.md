@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Puzzle that could enhance mathematical skills and logical sense"
+title:  "Puzzle that could prevent and detect dementia"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---
@@ -11,7 +11,7 @@ According to WHO (World health organization), more than 55 million people are su
 
 ## Concept of the Puzzle
 
-My puzzle mainly utilizes the concept of mental rotation and geometry. Rotation and geometry are concepts that people learn during elementary schools. There are several reasons that made me to utilize these concepts. The first reason is to increase the accessibility of the puzzle. As I already mentioned, these concepts are easy enough to welcome everyone to access to the puzzle. The second reason is to increase brain acitivity. The purpose of making this puzzle was to prevent and detect dementia. It is true that the system can utilize datas to analyze the status quo of the player, but datas itself cannot help players to prevent dementia. However, mental rotation can.🤗 According to neu-brains, mental rotation actually helps people to prevent dementia which means that players who play this game could actually enjoy the game itself and prevent dementia.
+My puzzle mainly utilizes the concept of mental rotation and geometry. Rotation and geometry are concepts that people learn during elementary schools. There are several reasons that made me to utilize these concepts. The first reason is to increase the accessibility of the puzzle. As I already mentioned, these concepts are easy enough to welcome everyone to access to the puzzle. The second reason is to increase brain acitivity. The purpose of making this puzzle was to prevent and detect dementia. The system can indeed utilize datas such as used time or speed to analyze the status quo of the player, but the datas itself cannot help players to prevent dementia. However, mental rotation can.🤗 According to neu-brains, mental rotation helps people to prevent dementia which means that players who play this game could enjoy the game itself and prevent dementia.
 
 ## Tutorial of the Puzzle
 
