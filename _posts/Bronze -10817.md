@@ -1,0 +1,52 @@
+---
+layout: post
+title:  [Bronze III] 세 수 - 10817
+date:   2022-12-28 10:40:42 +0900
+categories: development
+---
+
+## Introduction
+
+성능 요약
+메모리: 2020 KB, 시간: 0 ms
+
+분류
+구현(implementation), 정렬(sorting)
+
+문제 설명
+세 정수 A, B, C가 주어진다. 이때, 두 번째로 큰 정수를 출력하는 프로그램을 작성하시오.
+
+입력
+첫째 줄에 세 정수 A, B, C가 공백으로 구분되어 주어진다. (1 ≤ A, B, C ≤ 100)
+
+출력
+두 번째로 큰 정수를 출력한다.
+
+## Link
+
+[Link of the question](https://www.acmicpc.net/problem/10817)
+
+## Code Block
+
+```c++
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    int a[3];
+    for(int i= 0; i < 3; i++){
+        cin >> a[i];
+    }
+    for(int i = 1; i < 3; i++){
+        for(int j = i; j >0; j--){
+            if(a[j] < a[j - 1]){
+                swap(a[j], a[j - 1]);
+            }
+        }
+    }
+    cout << a[1];
+}
+```
+
+## Demonstration
+
+Description ommited due to low difficulty.

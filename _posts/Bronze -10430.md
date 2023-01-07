@@ -1,0 +1,50 @@
+---
+layout: post
+title:  [Bronze V] 나머지 - 10430
+date:   2022-12-28 10:40:42 +0900
+categories: development
+---
+
+## Introduction
+
+성능 요약
+메모리: 2020 KB, 시간: 0 ms
+
+분류
+구현(implementation), 사칙연산(arithmetic), 수학(math)
+
+문제 설명
+(A+B)%C는 ((A%C) + (B%C))%C 와 같을까?
+
+(A×B)%C는 ((A%C) × (B%C))%C 와 같을까?
+
+세 수 A, B, C가 주어졌을 때, 위의 네 가지 값을 구하는 프로그램을 작성하시오.
+
+입력
+첫째 줄에 A, B, C가 순서대로 주어진다. (2 ≤ A, B, C ≤ 10000)
+
+출력
+첫째 줄에 (A+B)%C, 둘째 줄에 ((A%C) + (B%C))%C, 셋째 줄에 (A×B)%C, 넷째 줄에 ((A%C) × (B%C))%C를 출력한다.
+
+## Link
+
+[Link of the question](https://www.acmicpc.net/problem/10430)
+
+## Code Block
+
+```c++
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+   int A, B, C;
+   cin >> A >> B >> C;
+   cout << (A+B)%C << "\n";
+   cout << ((A%C) + (B%C))%C << "\n";
+   cout << (A*B)%C << "\n";
+   cout <<  ((A%C) * (B%C))%C<< "\n";
+   }
+```
+
+## Demonstration
+
+Description ommited due to low difficulty.

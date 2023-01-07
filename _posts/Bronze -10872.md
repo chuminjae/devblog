@@ -1,0 +1,52 @@
+---
+layout: post
+title:  [Bronze V] 팩토리얼 - 10872
+date:   2022-12-28 10:40:42 +0900
+categories: development
+---
+
+## Introduction
+
+성능 요약
+메모리: 2020 KB, 시간: 0 ms
+
+분류
+구현(implementation), 수학(math), 조합론(combinatorics)
+
+문제 설명
+0보다 크거나 같은 정수 N이 주어진다. 이때, N!을 출력하는 프로그램을 작성하시오.
+
+입력
+첫째 줄에 정수 N(0 ≤ N ≤ 12)이 주어진다.
+
+출력
+첫째 줄에 N!을 출력한다.
+
+## Link
+
+[Link of the question](https://www.acmicpc.net/problem/10872)
+
+## Code Block
+
+```c++
+#include <bits/stdc++.h>
+using namespace std;
+int factorial(int a){
+    if(a <= 1){
+        return 1;
+    }
+   return a * factorial(a - 1);
+
+    }
+int main(){
+
+    int n;
+    cin >> n;
+    cout << factorial(n);
+
+}
+```
+
+## Demonstration
+
+Description ommited due to low difficulty.

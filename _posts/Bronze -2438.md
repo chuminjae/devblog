@@ -1,0 +1,51 @@
+---
+layout: post
+title:  [Bronze V] 별 찍기 - 1 - 2438
+date:   2022-12-28 10:40:42 +0900
+categories: development
+---
+
+## Introduction
+
+성능 요약
+메모리: 2020 KB, 시간: 0 ms
+
+분류
+구현(implementation)
+
+문제 설명
+첫째 줄에는 별 1개, 둘째 줄에는 별 2개, N번째 줄에는 별 N개를 찍는 문제
+
+입력
+첫째 줄에 N(1 ≤ N ≤ 100)이 주어진다.
+
+출력
+첫째 줄부터 N번째 줄까지 차례대로 별을 출력한다.
+
+## Link
+
+[Link of the question](https://www.acmicpc.net/problem/2438)
+
+## Code Block
+
+```c++
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    int n;
+    int k  = 1;
+    cin >> n;
+    for(int i = 1; i <= n; i++){
+      for(int i = 1; i <= k; i++){
+            cout << "*";
+      }
+      k++;
+      cout << "\n";
+
+}
+}
+```
+
+## Demonstration
+
+Description ommited due to low difficulty.

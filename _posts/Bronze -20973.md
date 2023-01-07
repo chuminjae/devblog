@@ -1,0 +1,65 @@
+---
+layout: post
+title:  [Bronze I] Uddered but not Herd - 20973
+date:   2022-12-28 10:40:42 +0900
+categories: development
+---
+
+## Introduction
+
+성능 요약
+메모리: 1112 KB, 시간: 0 ms
+
+분류
+문자열(string)
+
+문제 설명
+A little known fact about cows is that they have their own version of the alphabet, the "cowphabet". It consists of the 26 letters 'a' through 'z', but when a cow speaks the cowphabet, she lists these letters in a specific ordering that might be different from the order 'abcdefghijklmnopqrstuvwxyz' we are used to hearing.
+
+To pass the time, Bessie the cow has been humming the cowphabet over and over again, and Farmer John is curious how many times she's hummed it.
+
+Given a lowercase string of letters that Farmer John has heard Bessie say, compute the minimum number of times Bessie must have hummed the entire cowphabet in order for Farmer John to have heard the given string. Farmer John isn't always paying attention to what Bessie hums, and so he might have missed some of the letters that Bessie has hummed. The string you are told consists of just the letters that he remembers hearing.
+
+입력
+The first line of input contains the 26 lowercase letters 'a' through 'z' in the order they appear in the cowphabet. The next line contains the string of lowercase letters that Farmer John heard Bessie say. This string has length at least 1 and at most 1000.
+
+출력
+Print the minimum number of times Bessie must have hummed the entire cowphabet.
+
+## Link
+
+[Link of the question](https://www.acmicpc.net/problem/20973)
+
+## Code Block
+
+```c
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+# include <math.h>
+#pragma warning (disable:4996 6031)
+int main() {
+    char str[27];
+    char qe[1001];
+    int a = 0;
+    int x = 1;
+    int r[1002]= {}; 
+    scanf("%s", str);
+    scanf("%s", qe);
+    int p = strlen(qe); 
+    for (int i = 0; i < p; ) {
+        for (int j = 0; j < 26; j++) {
+            if (qe[i] == str[j]) {
+                i++;
+            }
+        }
+        a++;
+    }
+    printf("%d", a);
+
+}   
+```
+
+## Demonstration
+
+Description ommited due to low difficulty.

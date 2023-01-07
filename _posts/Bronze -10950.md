@@ -1,0 +1,51 @@
+---
+layout: post
+title:  [Bronze V] A+B - 3 - 10950
+date:   2022-12-28 10:40:42 +0900
+categories: development
+---
+
+## Introduction
+
+성능 요약
+메모리: 2020 KB, 시간: 4 ms
+
+분류
+구현(implementation), 사칙연산(arithmetic), 수학(math)
+
+문제 설명
+두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
+
+입력
+첫째 줄에 테스트 케이스의 개수 T가 주어진다.
+
+각 테스트 케이스는 한 줄로 이루어져 있으며, 각 줄에 A와 B가 주어진다. (0 < A, B < 10)
+
+출력
+각 테스트 케이스마다 A+B를 출력한다.
+
+## Link
+
+[Link of the question](https://www.acmicpc.net/problem/10950)
+
+## Code Block
+
+```c++
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    int n;
+    cin >> n;
+    int a[n], b[n];
+    for(int i = 0; i < n; i++){
+        cin >> a[i] >> b[i];
+        cout << a[i] + b[i] << "\n";
+    }
+
+
+}
+```
+
+## Demonstration
+
+Description ommited due to low difficulty.

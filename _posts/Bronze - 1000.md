@@ -1,0 +1,52 @@
+---
+layout: post
+title:  [Bronze V] A+B - 1000
+date:   2022-12-28 10:40:42 +0900
+categories: development
+---
+
+## Introduction
+
+성능 요약
+메모리: 2020 KB, 시간: 0 ms
+
+분류
+구현(implementation), 사칙연산(arithmetic), 수학(math)
+
+문제 설명
+두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
+
+입력
+첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)
+
+출력
+첫째 줄에 A+B를 출력한다.
+
+## Link
+
+[Link of the question](https://www.acmicpc.net/problem/1000)
+
+## Code Block
+
+```c++
+# include <iostream>
+using namespace std;
+int add(int a, int b){
+    int sum = a + b;
+    return sum;
+}
+
+
+int main(){
+    int a;
+    int b;
+    cin >> a >> b;
+    cout << add(a,b);
+    return 0;
+
+}
+```
+
+## Demonstration
+
+Description ommited due to low difficulty.
