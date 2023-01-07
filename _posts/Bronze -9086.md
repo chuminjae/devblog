@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze V] 문자열 - 9086
+title:  "[Bronze V] 문자열 - 9086"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

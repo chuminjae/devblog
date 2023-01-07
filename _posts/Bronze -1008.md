@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze V] A/B - 1008
+title:  "[Bronze V] A/B - 1008"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

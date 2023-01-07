@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze I] Where Am I? - 18269
+title:  "[Bronze I] Where Am I? - 18269"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

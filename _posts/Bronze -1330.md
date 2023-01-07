@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze V] 두 수 비교하기 - 1330
+title:  "[Bronze V] 두 수 비교하기 - 1330"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze IV] 숫자의 합 - 11720
+title:  "[Bronze IV] 숫자의 합 - 11720"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

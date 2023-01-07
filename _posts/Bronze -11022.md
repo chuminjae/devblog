@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze V] A+B - 8 - 11022
+title:  "[Bronze V] A+B - 8 - 11022"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

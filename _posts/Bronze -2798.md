@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze II] 블랙잭 - 2798
+title:  "[Bronze II] 블랙잭 - 2798"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

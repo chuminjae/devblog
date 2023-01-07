@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze V] 시험 성적 - 9498
+title:  "[Bronze V] 시험 성적 - 9498"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

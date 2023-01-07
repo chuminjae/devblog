@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze II] 피보나치 수 5 - 10870
+title:  "[Bronze II] 피보나치 수 5 - 10870"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

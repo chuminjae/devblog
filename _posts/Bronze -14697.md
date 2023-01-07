@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze II] 방 배정하기 - 14697
+title:  "[Bronze II] 방 배정하기 - 14697"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze I] Blocked Billboard - 15463
+title:  "[Bronze I] Blocked Billboard - 15463"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

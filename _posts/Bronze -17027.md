@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze II] Shell Game - 17027
+title:  "[Bronze II] Shell Game - 17027"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

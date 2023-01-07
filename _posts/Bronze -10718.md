@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze V] We love kriii - 10718
+title:  "[Bronze V] We love kriii - 10718"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

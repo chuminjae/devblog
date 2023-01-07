@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze III] 세 수 - 10817
+title:  "[Bronze III] 세 수 - 10817"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---

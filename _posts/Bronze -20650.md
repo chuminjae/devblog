@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [Bronze I] Do You Know Your ABCs? - 20650
+title:  "[Bronze I] Do You Know Your ABCs? - 20650"
 date:   2022-12-28 10:40:42 +0900
 categories: development
 ---
