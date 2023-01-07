@@ -282,18 +282,6 @@ void addData(){
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
 void viewingData(){
         system("cls");
         string number, studentname, grade, birthday, chineseliterature, Englishliterature, biology,calculus, history, AcademicEnglish;
