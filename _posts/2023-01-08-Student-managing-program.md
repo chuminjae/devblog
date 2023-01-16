@@ -2,7 +2,7 @@
 layout: post
 title:  "Student managing program"
 date:   2023-01-08 00:05:01 +0900
-categories: development
+categories: Software
 ---
 
 ## Introduction

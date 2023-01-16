@@ -2,7 +2,7 @@
 layout: post
 title:  "Fixed puzzle - whack a mole"
 date:   2023-01-12 00:05:01 +0900
-categories: development
+categories: Software
 ---
 
 ## Introduction
