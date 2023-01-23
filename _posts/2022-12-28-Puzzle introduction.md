@@ -2,7 +2,7 @@
 layout: post
 title:  "Puzzle that could prevent and detect dementia"
 date:   2022-12-28 10:40:42 +0900
-categories: Software
+categories: Callus company - Internship
 ---
 
 ## Introduction

@@ -2,7 +2,7 @@
 layout: post
 title:  "Puzzle that could enhance mathematical skills and logical sense"
 date:   2022-12-27 10:40:42 +0900
-categories: Software
+categories: Callus company - Internship
 ---
 
 ## Introduction
