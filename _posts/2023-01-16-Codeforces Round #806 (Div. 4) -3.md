@@ -2,7 +2,7 @@
 layout: post
 title:  "Codeforces Round #806 (Div. 4) -2"
 date:   2023-02-07 00:05:01 +0900
-categories: Programming
+categories: Contest
 ---
 
 ## Introduction
