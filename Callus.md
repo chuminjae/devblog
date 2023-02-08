@@ -2,6 +2,5 @@
 
 layout: category
 
-title:  Callus company - Internship
-
+title: Callus company
 ---
