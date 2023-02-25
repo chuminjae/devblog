@@ -2,7 +2,7 @@
 layout: post
 title:  "Chi square anaylsis program"
 date:   2023-02-15 00:05:01 +0900
-categories: Programming
+categories: Software
 ---
 
 ## Introduction
