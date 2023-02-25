@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chi square anaylsis program"
-date:   2023-01-12 00:05:01 +0900
+date:   2023-02-15 00:05:01 +0900
 categories: Programming
 ---
 
