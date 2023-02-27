@@ -2,7 +2,7 @@
 layout: post
 title:  "[Silver III] N과 M (4) - 15652"
 date:   2023-01-12 00:05:01 +0900
-categories: Programming
+categories: c++
 ---
 
 ## Introduction
